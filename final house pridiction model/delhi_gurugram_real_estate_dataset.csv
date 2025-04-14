@@ -1,0 +1,1001 @@
+Location,City,Property_Type,Area_sqft,Bedrooms,Bathrooms,Age_of_Property,Price_INR
+"Dwarka, Delhi",Delhi,Plot,1660,0,0,0,18907400
+"Sector 45, Gurugram",Gurugram,Plot,4572,0,0,0,58219848
+"DLF Phase 1, Gurugram",Gurugram,Plot,1266,0,0,0,14465316
+"Karol Bagh, Delhi",Delhi,Plot,4244,0,0,0,38921724
+"Rohini, Delhi",Delhi,Plot,930,0,0,0,7147050
+"Rohini, Delhi",Delhi,Plot,1569,0,0,0,13165479
+"MG Road, Gurugram",Gurugram,Apartment,3233,4,1,0,33574705
+"Rohini, Delhi",Delhi,House,4917,5,1,16,31832658
+"Rohini, Delhi",Delhi,Apartment,3358,2,3,29,29328772
+"MG Road, Gurugram",Gurugram,House,2699,4,1,2,29392110
+"Rohini, Delhi",Delhi,House,1446,5,1,6,16474278
+"MG Road, Gurugram",Gurugram,Plot,1400,0,0,0,12685400
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1041,2,1,25,14616681
+"Rohini, Delhi",Delhi,Apartment,2163,4,3,27,16174914
+"Saket, Delhi",Delhi,House,3356,3,2,16,26696980
+"Lajpat Nagar, Delhi",Delhi,Plot,4743,0,0,0,43033239
+"Karol Bagh, Delhi",Delhi,Plot,4261,0,0,0,36699993
+"Sector 45, Gurugram",Gurugram,Apartment,4643,5,3,17,33248523
+"Sector 56, Gurugram",Gurugram,House,2781,4,2,30,28761102
+"Lajpat Nagar, Delhi",Delhi,Apartment,4598,4,1,29,29137526
+"Sushant Lok, Gurugram",Gurugram,Apartment,1876,2,1,27,14054992
+"Sushant Lok, Gurugram",Gurugram,House,2862,5,1,24,35669106
+"Karol Bagh, Delhi",Delhi,Apartment,2827,3,3,16,18067357
+"Dwarka, Delhi",Delhi,Plot,4361,0,0,0,36100358
+"MG Road, Gurugram",Gurugram,Plot,3899,0,0,0,50527141
+"MG Road, Gurugram",Gurugram,Plot,3904,0,0,0,36908416
+"Dwarka, Delhi",Delhi,Apartment,4445,5,3,11,53299995
+"Lajpat Nagar, Delhi",Delhi,Apartment,2370,1,3,4,27446970
+"Sector 45, Gurugram",Gurugram,Plot,4640,0,0,0,66746400
+"Karol Bagh, Delhi",Delhi,Plot,1302,0,0,0,13661886
+"Lajpat Nagar, Delhi",Delhi,Apartment,1006,2,2,27,7528904
+"Karol Bagh, Delhi",Delhi,House,1663,1,1,3,12899891
+"Karol Bagh, Delhi",Delhi,House,2478,3,1,3,27949362
+"Dwarka, Delhi",Delhi,Plot,4114,0,0,0,37671898
+"MG Road, Gurugram",Gurugram,Apartment,3425,2,1,29,33198525
+"Rohini, Delhi",Delhi,Plot,4427,0,0,0,32596001
+"Rohini, Delhi",Delhi,Apartment,2781,3,2,22,32237352
+"Lajpat Nagar, Delhi",Delhi,House,3037,1,1,24,22188322
+"Lajpat Nagar, Delhi",Delhi,House,3475,5,1,2,23313775
+"Dwarka, Delhi",Delhi,House,4548,1,3,9,49022892
+"DLF Phase 1, Gurugram",Gurugram,Apartment,2798,3,2,23,30114874
+"Karol Bagh, Delhi",Delhi,Plot,2653,0,0,0,30817248
+"Rohini, Delhi",Delhi,Plot,2091,0,0,0,20033871
+"Sector 56, Gurugram",Gurugram,Apartment,4257,3,1,4,42565743
+"Saket, Delhi",Delhi,House,3952,3,1,1,42432624
+"Karol Bagh, Delhi",Delhi,Plot,1654,0,0,0,19608170
+"Rohini, Delhi",Delhi,Apartment,4274,2,1,11,37512898
+"Saket, Delhi",Delhi,Plot,2533,0,0,0,29218155
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4310,3,3,16,49086590
+"Sector 56, Gurugram",Gurugram,Plot,3127,0,0,0,46207679
+"Sushant Lok, Gurugram",Gurugram,Apartment,997,3,3,15,10241184
+"Sushant Lok, Gurugram",Gurugram,Plot,1947,0,0,0,20242959
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3311,5,3,19,46678478
+"Sector 56, Gurugram",Gurugram,Plot,2169,0,0,0,27394470
+"Sector 45, Gurugram",Gurugram,Plot,946,0,0,0,9375806
+"Lajpat Nagar, Delhi",Delhi,House,2534,4,1,0,20168106
+"Dwarka, Delhi",Delhi,Apartment,3185,1,3,27,36735790
+"Sector 56, Gurugram",Gurugram,Apartment,4169,3,3,27,33418704
+"Sector 45, Gurugram",Gurugram,House,4443,1,2,0,59522871
+"Sector 56, Gurugram",Gurugram,House,4523,5,1,26,65131200
+"Lajpat Nagar, Delhi",Delhi,House,3970,3,3,19,36488270
+"Karol Bagh, Delhi",Delhi,House,4791,4,3,16,55283349
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4999,4,2,2,47775443
+"MG Road, Gurugram",Gurugram,Apartment,898,1,1,17,10266834
+"Lajpat Nagar, Delhi",Delhi,Plot,4577,0,0,0,40593413
+"Dwarka, Delhi",Delhi,Apartment,4591,5,1,3,28280560
+"Lajpat Nagar, Delhi",Delhi,Apartment,2100,4,3,2,22041600
+"Dwarka, Delhi",Delhi,House,3904,4,3,18,41245760
+"Sushant Lok, Gurugram",Gurugram,Apartment,1845,5,3,21,19103130
+"Saket, Delhi",Delhi,Plot,1025,0,0,0,11165325
+"Sector 56, Gurugram",Gurugram,Apartment,1759,1,1,27,20675286
+"Dwarka, Delhi",Delhi,Plot,3920,0,0,0,23582720
+"Rohini, Delhi",Delhi,Plot,2043,0,0,0,16762815
+"Dwarka, Delhi",Delhi,House,1869,5,2,2,22173816
+"Lajpat Nagar, Delhi",Delhi,Apartment,3127,5,1,13,32133052
+"Lajpat Nagar, Delhi",Delhi,House,3970,4,1,19,24574300
+"Rohini, Delhi",Delhi,Apartment,1780,1,3,17,13912480
+"Dwarka, Delhi",Delhi,Plot,1369,0,0,0,15664098
+"MG Road, Gurugram",Gurugram,House,3533,2,3,21,35361797
+"Sushant Lok, Gurugram",Gurugram,Plot,954,0,0,0,8022186
+"MG Road, Gurugram",Gurugram,Plot,4857,0,0,0,49419975
+"MG Road, Gurugram",Gurugram,House,3606,2,3,17,34094730
+"Sector 56, Gurugram",Gurugram,Apartment,1324,4,2,6,15596720
+"Karol Bagh, Delhi",Delhi,House,4915,1,2,15,42765415
+"Sushant Lok, Gurugram",Gurugram,Apartment,1966,4,2,1,19215684
+"Lajpat Nagar, Delhi",Delhi,Apartment,2782,3,1,25,18288868
+"Saket, Delhi",Delhi,House,1948,2,2,21,15028820
+"Rohini, Delhi",Delhi,Apartment,4654,3,1,0,42463096
+"Rohini, Delhi",Delhi,Plot,3851,0,0,0,23121404
+"Lajpat Nagar, Delhi",Delhi,House,1676,4,2,14,17370064
+"Lajpat Nagar, Delhi",Delhi,Apartment,1435,2,2,18,15429120
+"Sector 56, Gurugram",Gurugram,Plot,1630,0,0,0,17400250
+"Sushant Lok, Gurugram",Gurugram,Plot,2169,0,0,0,31756329
+"MG Road, Gurugram",Gurugram,House,916,1,1,0,10743764
+"Saket, Delhi",Delhi,Apartment,1312,2,2,21,8605408
+"Rohini, Delhi",Delhi,House,4143,5,3,30,27260940
+"Rohini, Delhi",Delhi,Plot,3094,0,0,0,28300818
+"Sector 45, Gurugram",Gurugram,Apartment,2479,3,1,21,25672524
+"Lajpat Nagar, Delhi",Delhi,House,4845,4,1,14,53798880
+"Sector 45, Gurugram",Gurugram,Plot,3859,0,0,0,47554457
+"Sector 56, Gurugram",Gurugram,Plot,3759,0,0,0,51186303
+"DLF Phase 1, Gurugram",Gurugram,House,3279,5,3,3,47286459
+"Karol Bagh, Delhi",Delhi,Plot,2557,0,0,0,26725764
+"MG Road, Gurugram",Gurugram,House,3649,4,3,9,34625361
+"Rohini, Delhi",Delhi,Plot,2431,0,0,0,21431696
+"MG Road, Gurugram",Gurugram,Plot,2148,0,0,0,21666876
+"Dwarka, Delhi",Delhi,Apartment,3639,2,1,27,25090905
+"MG Road, Gurugram",Gurugram,Apartment,4346,4,2,2,37236528
+"Lajpat Nagar, Delhi",Delhi,House,4800,5,3,10,56313600
+"MG Road, Gurugram",Gurugram,Plot,4713,0,0,0,69389499
+"Saket, Delhi",Delhi,House,3244,4,3,13,32339436
+"Lajpat Nagar, Delhi",Delhi,Plot,3346,0,0,0,22595538
+"Sector 56, Gurugram",Gurugram,Apartment,3574,1,2,7,35986606
+"Sector 45, Gurugram",Gurugram,House,1217,3,1,6,9523025
+"Sector 45, Gurugram",Gurugram,Apartment,2316,3,1,23,23965968
+"Rohini, Delhi",Delhi,Apartment,3608,4,2,4,30682432
+"Rohini, Delhi",Delhi,House,3586,1,3,15,27149606
+"Dwarka, Delhi",Delhi,Plot,2943,0,0,0,22622841
+"Saket, Delhi",Delhi,House,4932,4,1,22,57428208
+"Sushant Lok, Gurugram",Gurugram,Apartment,3714,1,2,16,49043370
+"Rohini, Delhi",Delhi,Plot,1395,0,0,0,16738605
+"Sushant Lok, Gurugram",Gurugram,House,2165,5,3,18,16010175
+"Dwarka, Delhi",Delhi,Apartment,4971,1,3,27,33390207
+"Rohini, Delhi",Delhi,House,4377,5,1,2,45919107
+"Sector 56, Gurugram",Gurugram,Apartment,3738,5,1,22,35944608
+"Sector 45, Gurugram",Gurugram,House,1862,5,1,9,18586484
+"Rohini, Delhi",Delhi,Apartment,4094,2,1,2,46401396
+"Saket, Delhi",Delhi,Apartment,1753,4,1,28,16304653
+"Saket, Delhi",Delhi,Apartment,1991,2,1,17,17283871
+"Saket, Delhi",Delhi,Apartment,2340,5,1,5,19623240
+"Dwarka, Delhi",Delhi,Apartment,2188,1,2,19,16803840
+"Rohini, Delhi",Delhi,House,2124,4,2,27,20148264
+"Dwarka, Delhi",Delhi,Plot,3723,0,0,0,42073623
+"Dwarka, Delhi",Delhi,House,4986,2,2,18,50528124
+"Sector 45, Gurugram",Gurugram,House,4322,5,1,17,46284298
+"Sector 56, Gurugram",Gurugram,Plot,1881,0,0,0,25617339
+"Lajpat Nagar, Delhi",Delhi,Apartment,1255,5,3,8,9987290
+"Sushant Lok, Gurugram",Gurugram,Plot,2796,0,0,0,20981184
+"Lajpat Nagar, Delhi",Delhi,Plot,2014,0,0,0,15167434
+"Dwarka, Delhi",Delhi,Plot,1623,0,0,0,11244144
+"Dwarka, Delhi",Delhi,House,933,2,1,12,7325916
+"Karol Bagh, Delhi",Delhi,Apartment,4975,5,3,27,56456300
+"MG Road, Gurugram",Gurugram,Plot,2050,0,0,0,25934550
+"Dwarka, Delhi",Delhi,Apartment,4312,2,3,8,40429312
+"MG Road, Gurugram",Gurugram,Apartment,4286,1,1,21,41587058
+"MG Road, Gurugram",Gurugram,Plot,1270,0,0,0,10608310
+"Sector 56, Gurugram",Gurugram,Plot,3583,0,0,0,43221729
+"Dwarka, Delhi",Delhi,House,1157,4,1,7,8266765
+"Saket, Delhi",Delhi,House,4985,2,2,27,43763315
+"Sector 45, Gurugram",Gurugram,Plot,4936,0,0,0,53185400
+"MG Road, Gurugram",Gurugram,House,3308,4,1,12,48673912
+"Dwarka, Delhi",Delhi,House,4124,2,3,4,32323912
+"MG Road, Gurugram",Gurugram,Plot,809,0,0,0,6307773
+"Dwarka, Delhi",Delhi,Apartment,1815,1,2,0,14870295
+"Karol Bagh, Delhi",Delhi,Plot,4958,0,0,0,56203888
+"Lajpat Nagar, Delhi",Delhi,Plot,4800,0,0,0,36638400
+"Karol Bagh, Delhi",Delhi,Plot,1310,0,0,0,8363040
+"Sector 45, Gurugram",Gurugram,Apartment,2800,5,3,4,38959200
+"Rohini, Delhi",Delhi,Apartment,2260,5,1,4,24428340
+"Rohini, Delhi",Delhi,Plot,4978,0,0,0,56072192
+"Karol Bagh, Delhi",Delhi,Plot,2848,0,0,0,28895808
+"Lajpat Nagar, Delhi",Delhi,Plot,1516,0,0,0,17532540
+"Karol Bagh, Delhi",Delhi,House,2623,2,3,7,19866602
+"Sushant Lok, Gurugram",Gurugram,House,1049,2,2,21,11499138
+"Sector 45, Gurugram",Gurugram,House,2784,4,1,29,24632832
+"Sector 56, Gurugram",Gurugram,Apartment,3614,5,1,13,32966908
+"DLF Phase 1, Gurugram",Gurugram,House,2950,4,2,5,39060950
+"DLF Phase 1, Gurugram",Gurugram,Apartment,2158,3,3,30,17978298
+"Sushant Lok, Gurugram",Gurugram,Apartment,2158,4,2,22,31787340
+"Sector 56, Gurugram",Gurugram,House,2928,5,1,3,39021456
+"Lajpat Nagar, Delhi",Delhi,House,4272,2,1,27,51140112
+"Sector 45, Gurugram",Gurugram,Apartment,4964,2,2,20,56093200
+"Karol Bagh, Delhi",Delhi,Plot,4618,0,0,0,46817284
+"Saket, Delhi",Delhi,Apartment,4842,3,3,24,45732690
+"Karol Bagh, Delhi",Delhi,Plot,1699,0,0,0,17763045
+"Dwarka, Delhi",Delhi,Plot,2519,0,0,0,15819320
+"MG Road, Gurugram",Gurugram,House,2687,3,3,28,24099703
+"Sector 56, Gurugram",Gurugram,Apartment,4956,2,3,18,62371260
+"Karol Bagh, Delhi",Delhi,House,4700,5,2,0,30658100
+"Saket, Delhi",Delhi,House,3917,2,1,13,30368501
+"Dwarka, Delhi",Delhi,Plot,3096,0,0,0,34799040
+"MG Road, Gurugram",Gurugram,Plot,3086,0,0,0,41639398
+"Saket, Delhi",Delhi,Apartment,3678,5,1,25,41840928
+"MG Road, Gurugram",Gurugram,Apartment,2076,4,3,14,14646180
+"Sector 56, Gurugram",Gurugram,Apartment,1325,2,3,13,19282725
+"Lajpat Nagar, Delhi",Delhi,Apartment,1164,2,2,26,13305684
+"Karol Bagh, Delhi",Delhi,Plot,2446,0,0,0,16921428
+"Saket, Delhi",Delhi,Plot,2331,0,0,0,21783195
+"Sushant Lok, Gurugram",Gurugram,Plot,2706,0,0,0,33313566
+"MG Road, Gurugram",Gurugram,Apartment,2875,2,3,24,35506250
+"DLF Phase 1, Gurugram",Gurugram,Apartment,925,4,1,16,9511775
+"MG Road, Gurugram",Gurugram,House,2403,2,3,8,19630107
+"Saket, Delhi",Delhi,Plot,2958,0,0,0,30189348
+"Dwarka, Delhi",Delhi,Plot,4807,0,0,0,40724904
+"Saket, Delhi",Delhi,House,3539,2,2,26,28223525
+"Karol Bagh, Delhi",Delhi,Apartment,1676,5,1,0,12502960
+"DLF Phase 1, Gurugram",Gurugram,House,3124,4,2,10,46850628
+"Saket, Delhi",Delhi,House,3197,1,3,2,19955674
+"DLF Phase 1, Gurugram",Gurugram,House,1863,5,3,5,23941413
+"Dwarka, Delhi",Delhi,Apartment,4970,4,3,5,30401490
+"Karol Bagh, Delhi",Delhi,House,3351,3,2,24,34478439
+"Rohini, Delhi",Delhi,House,3562,2,3,12,41903368
+"Sector 45, Gurugram",Gurugram,Apartment,1941,4,3,19,22568007
+"DLF Phase 1, Gurugram",Gurugram,House,2848,2,2,5,25395616
+"DLF Phase 1, Gurugram",Gurugram,Plot,2826,0,0,0,22328226
+"DLF Phase 1, Gurugram",Gurugram,House,2839,2,1,22,26172741
+"Saket, Delhi",Delhi,Plot,2860,0,0,0,32280820
+"Dwarka, Delhi",Delhi,Apartment,2419,1,3,4,20261544
+"Rohini, Delhi",Delhi,Apartment,3624,3,3,23,29129712
+"MG Road, Gurugram",Gurugram,House,4477,1,1,29,32391095
+"Dwarka, Delhi",Delhi,House,2769,5,3,8,23910315
+"Saket, Delhi",Delhi,Apartment,3360,4,1,7,33096000
+"MG Road, Gurugram",Gurugram,Apartment,2052,4,2,2,29409264
+"DLF Phase 1, Gurugram",Gurugram,Plot,3698,0,0,0,53905746
+"MG Road, Gurugram",Gurugram,Plot,3421,0,0,0,25999600
+"Sector 56, Gurugram",Gurugram,Plot,1865,0,0,0,17622385
+"Saket, Delhi",Delhi,House,3143,3,1,5,37665712
+"Lajpat Nagar, Delhi",Delhi,Plot,2990,0,0,0,20906080
+"Sushant Lok, Gurugram",Gurugram,Plot,2992,0,0,0,30081568
+"Sector 45, Gurugram",Gurugram,Apartment,4833,5,3,6,34783101
+"Saket, Delhi",Delhi,Plot,3426,0,0,0,24674052
+"Dwarka, Delhi",Delhi,Plot,2835,0,0,0,18362295
+"Rohini, Delhi",Delhi,House,1722,4,1,5,12260640
+"MG Road, Gurugram",Gurugram,House,1750,1,2,3,15499750
+"Saket, Delhi",Delhi,House,2665,1,2,5,29075150
+"Lajpat Nagar, Delhi",Delhi,House,4028,5,1,14,33718388
+"Rohini, Delhi",Delhi,House,4556,2,3,30,39518744
+"MG Road, Gurugram",Gurugram,Apartment,2755,4,2,10,35206145
+"Sector 56, Gurugram",Gurugram,Plot,4906,0,0,0,63586666
+"Sushant Lok, Gurugram",Gurugram,Apartment,3719,2,2,10,34456535
+"Sushant Lok, Gurugram",Gurugram,House,2988,2,1,0,23387076
+"Karol Bagh, Delhi",Delhi,Plot,3530,0,0,0,33644430
+"Rohini, Delhi",Delhi,Apartment,3735,5,3,9,33824160
+"Sushant Lok, Gurugram",Gurugram,Apartment,4249,1,2,18,44049383
+"Dwarka, Delhi",Delhi,Plot,4168,0,0,0,40833896
+"Lajpat Nagar, Delhi",Delhi,Apartment,2592,5,1,25,19815840
+"Lajpat Nagar, Delhi",Delhi,Apartment,2005,1,1,30,20092105
+"Sector 56, Gurugram",Gurugram,House,3508,1,1,8,36858556
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1374,4,1,25,20572902
+"Sector 56, Gurugram",Gurugram,Apartment,1185,2,3,1,16332855
+"Lajpat Nagar, Delhi",Delhi,House,1754,4,3,18,12637570
+"Lajpat Nagar, Delhi",Delhi,House,4920,4,2,20,58917000
+"Sector 56, Gurugram",Gurugram,House,4958,3,2,25,62411304
+"Saket, Delhi",Delhi,Apartment,3920,1,1,16,40152560
+"Sushant Lok, Gurugram",Gurugram,House,1141,4,3,28,15636264
+"Saket, Delhi",Delhi,Plot,2592,0,0,0,20111328
+"Saket, Delhi",Delhi,Apartment,1789,3,3,23,12025658
+"DLF Phase 1, Gurugram",Gurugram,House,2879,5,1,12,20973515
+"Saket, Delhi",Delhi,Plot,4295,0,0,0,34639175
+"Sector 56, Gurugram",Gurugram,House,3857,2,2,27,35333977
+"Rohini, Delhi",Delhi,Plot,4093,0,0,0,48285121
+"Lajpat Nagar, Delhi",Delhi,Apartment,4135,5,3,6,45050825
+"Dwarka, Delhi",Delhi,House,2281,3,2,1,21557731
+"Sector 56, Gurugram",Gurugram,Apartment,854,4,2,6,6688528
+"Sushant Lok, Gurugram",Gurugram,Plot,3606,0,0,0,47249418
+"Sector 45, Gurugram",Gurugram,House,3290,5,2,24,33887000
+"Karol Bagh, Delhi",Delhi,Plot,4475,0,0,0,40516650
+"Dwarka, Delhi",Delhi,Plot,2943,0,0,0,32982201
+"MG Road, Gurugram",Gurugram,Apartment,2111,3,1,21,29296458
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1622,2,3,9,24070480
+"Karol Bagh, Delhi",Delhi,Plot,2998,0,0,0,27449688
+"Dwarka, Delhi",Delhi,Plot,4495,0,0,0,42486740
+"Sector 45, Gurugram",Gurugram,Apartment,2108,4,2,1,29423464
+"Sector 45, Gurugram",Gurugram,Plot,4394,0,0,0,62245404
+"Saket, Delhi",Delhi,Apartment,2209,3,3,22,23174619
+"Rohini, Delhi",Delhi,Plot,1604,0,0,0,17690516
+"Lajpat Nagar, Delhi",Delhi,Apartment,4377,4,1,9,37987983
+"Sushant Lok, Gurugram",Gurugram,House,3568,2,3,16,41445888
+"MG Road, Gurugram",Gurugram,Plot,3399,0,0,0,24595164
+"Saket, Delhi",Delhi,Apartment,2104,1,2,21,17970264
+"Karol Bagh, Delhi",Delhi,Plot,1241,0,0,0,10022316
+"DLF Phase 1, Gurugram",Gurugram,House,3457,5,3,5,37764268
+"Sushant Lok, Gurugram",Gurugram,House,2889,4,1,5,40977576
+"MG Road, Gurugram",Gurugram,Plot,2422,0,0,0,26767944
+"Rohini, Delhi",Delhi,Plot,2874,0,0,0,19097730
+"Dwarka, Delhi",Delhi,Apartment,1409,4,1,24,9093686
+"Sector 45, Gurugram",Gurugram,House,2508,1,2,20,24279948
+"Sushant Lok, Gurugram",Gurugram,Plot,4429,0,0,0,49715525
+"Karol Bagh, Delhi",Delhi,Plot,3867,0,0,0,46175847
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4576,3,1,3,54404064
+"Lajpat Nagar, Delhi",Delhi,Plot,4924,0,0,0,30272752
+"Saket, Delhi",Delhi,Apartment,2858,4,1,26,25304732
+"Dwarka, Delhi",Delhi,House,2050,2,3,14,17857550
+"Lajpat Nagar, Delhi",Delhi,House,2585,4,3,19,20064770
+"Karol Bagh, Delhi",Delhi,Plot,4720,0,0,0,49371200
+"Lajpat Nagar, Delhi",Delhi,Apartment,1281,1,2,1,9638244
+"Rohini, Delhi",Delhi,Apartment,3143,1,1,24,19046580
+"DLF Phase 1, Gurugram",Gurugram,House,2439,2,1,6,25777791
+"Karol Bagh, Delhi",Delhi,House,2052,4,3,29,20924244
+"Saket, Delhi",Delhi,Plot,3122,0,0,0,23839592
+"Sector 56, Gurugram",Gurugram,Apartment,4890,1,1,16,52029600
+"Sector 56, Gurugram",Gurugram,Apartment,4694,1,3,11,50052122
+"MG Road, Gurugram",Gurugram,Apartment,1015,3,3,20,8881250
+"Sector 56, Gurugram",Gurugram,Plot,3221,0,0,0,39679499
+"Sushant Lok, Gurugram",Gurugram,Plot,4526,0,0,0,49754318
+"DLF Phase 1, Gurugram",Gurugram,House,1288,5,2,14,15292424
+"Lajpat Nagar, Delhi",Delhi,Apartment,1200,2,1,21,12414000
+"Lajpat Nagar, Delhi",Delhi,Plot,4653,0,0,0,48530790
+"Saket, Delhi",Delhi,House,3730,2,3,22,27975000
+"Sushant Lok, Gurugram",Gurugram,Plot,4094,0,0,0,38561386
+"MG Road, Gurugram",Gurugram,Apartment,1734,3,2,26,13202676
+"Dwarka, Delhi",Delhi,Plot,1982,0,0,0,18279986
+"MG Road, Gurugram",Gurugram,House,3467,4,1,1,48357716
+"Rohini, Delhi",Delhi,Apartment,3783,2,3,22,39566397
+"DLF Phase 1, Gurugram",Gurugram,Plot,4759,0,0,0,59335212
+"Lajpat Nagar, Delhi",Delhi,Apartment,1720,5,2,0,17390920
+"Saket, Delhi",Delhi,House,1931,2,3,2,17844371
+"Dwarka, Delhi",Delhi,Plot,3261,0,0,0,33738306
+"MG Road, Gurugram",Gurugram,House,2604,5,2,2,28966896
+"Sector 45, Gurugram",Gurugram,House,2832,5,2,20,33394944
+"Sector 56, Gurugram",Gurugram,Plot,1071,0,0,0,9393741
+"Lajpat Nagar, Delhi",Delhi,Plot,2062,0,0,0,17370288
+"Lajpat Nagar, Delhi",Delhi,Apartment,1720,4,1,0,16787200
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4300,2,2,29,63777600
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1231,1,1,13,14149114
+"Rohini, Delhi",Delhi,Apartment,1763,4,3,25,13800764
+"Saket, Delhi",Delhi,Plot,4868,0,0,0,33774184
+"Karol Bagh, Delhi",Delhi,House,1606,3,2,12,17452402
+"MG Road, Gurugram",Gurugram,Plot,1684,0,0,0,14127076
+"MG Road, Gurugram",Gurugram,Apartment,4201,3,2,24,33339136
+"Sector 45, Gurugram",Gurugram,Plot,3600,0,0,0,48247200
+"Sector 56, Gurugram",Gurugram,Plot,4645,0,0,0,32761185
+"MG Road, Gurugram",Gurugram,Apartment,1526,1,1,2,13601238
+"MG Road, Gurugram",Gurugram,Apartment,2396,3,2,2,18806204
+"Sector 56, Gurugram",Gurugram,Plot,2909,0,0,0,32740795
+"MG Road, Gurugram",Gurugram,Apartment,4869,5,1,14,45651744
+"Dwarka, Delhi",Delhi,Apartment,2733,5,2,10,20880120
+"Sector 45, Gurugram",Gurugram,Plot,3482,0,0,0,51213256
+"Karol Bagh, Delhi",Delhi,Apartment,2018,1,2,11,20714770
+"Saket, Delhi",Delhi,House,4935,1,1,10,34317990
+"Dwarka, Delhi",Delhi,Apartment,1783,4,3,5,20272710
+"Sushant Lok, Gurugram",Gurugram,Apartment,1713,5,1,27,20672484
+"MG Road, Gurugram",Gurugram,Plot,3911,0,0,0,52278337
+"Sector 45, Gurugram",Gurugram,House,1117,5,3,25,9596147
+"Rohini, Delhi",Delhi,Plot,3911,0,0,0,46873335
+"Dwarka, Delhi",Delhi,House,4730,5,1,0,34458050
+"MG Road, Gurugram",Gurugram,House,3183,4,1,26,44320092
+"Rohini, Delhi",Delhi,Apartment,1162,5,1,20,13117818
+"Sushant Lok, Gurugram",Gurugram,Plot,4538,0,0,0,53525710
+"Karol Bagh, Delhi",Delhi,Apartment,1356,2,1,18,15119400
+"Rohini, Delhi",Delhi,Plot,3519,0,0,0,33458652
+"Dwarka, Delhi",Delhi,House,2374,2,2,13,15639912
+"Sector 45, Gurugram",Gurugram,Apartment,2347,2,1,13,19095192
+"DLF Phase 1, Gurugram",Gurugram,Plot,2864,0,0,0,41212960
+"Saket, Delhi",Delhi,House,1807,3,2,6,19300567
+"Rohini, Delhi",Delhi,Apartment,2047,2,3,27,13450837
+"Saket, Delhi",Delhi,Plot,2045,0,0,0,16531780
+"Rohini, Delhi",Delhi,House,1077,4,2,3,11659602
+"Rohini, Delhi",Delhi,Plot,1840,0,0,0,12727280
+"Sushant Lok, Gurugram",Gurugram,House,1685,1,2,25,22499805
+"Rohini, Delhi",Delhi,Plot,3153,0,0,0,34049247
+"MG Road, Gurugram",Gurugram,Apartment,1084,4,3,2,10219952
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3307,5,3,0,33050158
+"DLF Phase 1, Gurugram",Gurugram,House,3306,2,3,25,27945618
+"Sector 56, Gurugram",Gurugram,House,4156,4,1,2,42981352
+"DLF Phase 1, Gurugram",Gurugram,Plot,1686,0,0,0,15517944
+"Dwarka, Delhi",Delhi,Plot,1898,0,0,0,14848054
+"Lajpat Nagar, Delhi",Delhi,Plot,3955,0,0,0,35962815
+"MG Road, Gurugram",Gurugram,Plot,4578,0,0,0,47853834
+"Dwarka, Delhi",Delhi,House,4311,4,1,20,47265804
+"Rohini, Delhi",Delhi,Apartment,4979,3,1,4,57288374
+"Lajpat Nagar, Delhi",Delhi,Apartment,4763,2,1,2,37413365
+"Rohini, Delhi",Delhi,Apartment,1592,4,2,14,13141960
+"Lajpat Nagar, Delhi",Delhi,Plot,2407,0,0,0,26907853
+"Lajpat Nagar, Delhi",Delhi,Apartment,1784,1,1,20,11629896
+"Dwarka, Delhi",Delhi,Apartment,1850,2,3,2,19321400
+"DLF Phase 1, Gurugram",Gurugram,House,1492,4,2,2,15254208
+"Sushant Lok, Gurugram",Gurugram,House,3053,1,2,11,26753439
+"Sushant Lok, Gurugram",Gurugram,Apartment,1320,1,3,21,18010080
+"Lajpat Nagar, Delhi",Delhi,Plot,916,0,0,0,7724628
+"Sector 45, Gurugram",Gurugram,House,1383,3,1,16,15019380
+"Karol Bagh, Delhi",Delhi,House,1073,2,2,14,11483246
+"Sushant Lok, Gurugram",Gurugram,Plot,2367,0,0,0,18292176
+"Dwarka, Delhi",Delhi,Apartment,2843,1,3,21,27753366
+"Lajpat Nagar, Delhi",Delhi,Apartment,2376,1,1,13,28015416
+"Sushant Lok, Gurugram",Gurugram,Apartment,1391,4,1,9,18148377
+"Karol Bagh, Delhi",Delhi,House,801,1,1,8,8045244
+"Sector 45, Gurugram",Gurugram,Apartment,1717,2,2,6,14953353
+"Lajpat Nagar, Delhi",Delhi,Apartment,2969,2,3,1,18125745
+"Rohini, Delhi",Delhi,Apartment,1227,1,3,28,8139918
+"Dwarka, Delhi",Delhi,Apartment,2856,1,3,30,21245784
+"Dwarka, Delhi",Delhi,House,1515,2,2,19,17327055
+"Sector 56, Gurugram",Gurugram,Plot,1050,0,0,0,9506700
+"MG Road, Gurugram",Gurugram,Plot,1258,0,0,0,9066406
+"Rohini, Delhi",Delhi,Plot,1699,0,0,0,16074239
+"Dwarka, Delhi",Delhi,Apartment,821,2,3,2,8952184
+"Sushant Lok, Gurugram",Gurugram,Plot,4909,0,0,0,69319989
+"Sector 45, Gurugram",Gurugram,Plot,2934,0,0,0,29210904
+"Saket, Delhi",Delhi,Apartment,2360,5,3,25,22745680
+"Karol Bagh, Delhi",Delhi,Apartment,4227,5,1,22,35320812
+"Rohini, Delhi",Delhi,Apartment,3135,3,2,5,20882235
+"Dwarka, Delhi",Delhi,Apartment,1111,1,3,2,9966781
+"Dwarka, Delhi",Delhi,Apartment,1554,3,1,28,17600604
+"Sushant Lok, Gurugram",Gurugram,House,1702,4,1,29,12182916
+"Sushant Lok, Gurugram",Gurugram,Plot,2777,0,0,0,25190167
+"Sector 56, Gurugram",Gurugram,Plot,1203,0,0,0,11764137
+"Sector 56, Gurugram",Gurugram,Plot,2187,0,0,0,29907225
+"Rohini, Delhi",Delhi,House,1755,2,1,18,18783765
+"DLF Phase 1, Gurugram",Gurugram,House,2073,5,2,3,19448886
+"Sector 45, Gurugram",Gurugram,House,2241,4,2,6,26555850
+"Lajpat Nagar, Delhi",Delhi,Apartment,2194,2,2,28,24983078
+"Sushant Lok, Gurugram",Gurugram,Apartment,1329,5,3,0,15800481
+"Rohini, Delhi",Delhi,Plot,4391,0,0,0,35773477
+"Sector 56, Gurugram",Gurugram,House,4169,4,2,13,30742206
+"Karol Bagh, Delhi",Delhi,House,3140,5,2,12,33434720
+"Karol Bagh, Delhi",Delhi,House,2325,4,1,14,13980225
+"Rohini, Delhi",Delhi,Plot,3078,0,0,0,28179090
+"Sushant Lok, Gurugram",Gurugram,Apartment,4614,1,3,24,32422578
+"MG Road, Gurugram",Gurugram,House,2913,3,1,4,36610584
+"Dwarka, Delhi",Delhi,Plot,4823,0,0,0,50139908
+"Sector 56, Gurugram",Gurugram,Apartment,4174,3,2,2,30340806
+"Rohini, Delhi",Delhi,Apartment,3439,2,1,9,30576149
+"Sushant Lok, Gurugram",Gurugram,Apartment,4232,1,1,19,54178064
+"Rohini, Delhi",Delhi,Apartment,3160,4,1,10,27599440
+"Karol Bagh, Delhi",Delhi,House,3012,1,1,23,22827948
+"Sector 56, Gurugram",Gurugram,Plot,3003,0,0,0,26252226
+"Karol Bagh, Delhi",Delhi,Plot,2725,0,0,0,18036775
+"Karol Bagh, Delhi",Delhi,Plot,1756,0,0,0,13940884
+"Karol Bagh, Delhi",Delhi,Apartment,3181,2,1,30,23272196
+"Rohini, Delhi",Delhi,Apartment,1081,5,1,22,7629698
+"Karol Bagh, Delhi",Delhi,House,3332,5,3,4,37584960
+"Sushant Lok, Gurugram",Gurugram,Plot,2029,0,0,0,23505965
+"Sector 45, Gurugram",Gurugram,Apartment,1075,5,2,23,16101350
+"DLF Phase 1, Gurugram",Gurugram,House,925,2,1,17,7592400
+"Rohini, Delhi",Delhi,Apartment,4049,4,2,19,47604093
+"Rohini, Delhi",Delhi,Apartment,2769,2,3,7,22243377
+"Sushant Lok, Gurugram",Gurugram,House,928,5,2,4,10375968
+"Lajpat Nagar, Delhi",Delhi,House,1998,2,1,22,22453524
+"Sector 45, Gurugram",Gurugram,Apartment,3274,2,2,17,46857488
+"Rohini, Delhi",Delhi,House,4519,1,3,7,47178360
+"Saket, Delhi",Delhi,Apartment,3872,3,3,15,45585056
+"Karol Bagh, Delhi",Delhi,Plot,2127,0,0,0,23796876
+"Saket, Delhi",Delhi,Apartment,4473,4,2,17,29982519
+"Sector 45, Gurugram",Gurugram,Apartment,4032,1,1,15,43658496
+"DLF Phase 1, Gurugram",Gurugram,House,4030,1,3,3,58628440
+"Karol Bagh, Delhi",Delhi,House,3973,4,2,18,37954069
+"Lajpat Nagar, Delhi",Delhi,Apartment,1800,3,1,10,17481600
+"MG Road, Gurugram",Gurugram,Plot,1621,0,0,0,13979504
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3572,1,2,6,28275952
+"DLF Phase 1, Gurugram",Gurugram,House,4786,4,1,24,54560400
+"Saket, Delhi",Delhi,Apartment,1535,1,3,11,14333830
+"Dwarka, Delhi",Delhi,Plot,3815,0,0,0,33911535
+"MG Road, Gurugram",Gurugram,House,3789,1,3,20,51041619
+"Rohini, Delhi",Delhi,House,3663,2,2,27,26289351
+"Dwarka, Delhi",Delhi,Apartment,811,5,2,15,7594204
+"Rohini, Delhi",Delhi,House,4171,4,3,10,28959253
+"Karol Bagh, Delhi",Delhi,Apartment,3345,4,3,10,23428380
+"Sector 45, Gurugram",Gurugram,House,1206,3,3,15,12286728
+"DLF Phase 1, Gurugram",Gurugram,House,1514,3,3,3,10809960
+"Saket, Delhi",Delhi,Apartment,1763,5,2,26,13560996
+"Sector 45, Gurugram",Gurugram,Plot,905,0,0,0,12500765
+"MG Road, Gurugram",Gurugram,Apartment,2481,2,1,12,25842096
+"Lajpat Nagar, Delhi",Delhi,House,4330,4,2,6,41801820
+"Saket, Delhi",Delhi,Apartment,3159,1,2,28,34897473
+"Sector 45, Gurugram",Gurugram,House,2275,1,1,9,30221100
+"Dwarka, Delhi",Delhi,Plot,2100,0,0,0,15210300
+"Sector 45, Gurugram",Gurugram,House,3897,1,3,9,36729225
+"Saket, Delhi",Delhi,House,2460,2,1,25,26946840
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4945,3,3,9,59389450
+"Saket, Delhi",Delhi,Plot,3840,0,0,0,28654080
+"Rohini, Delhi",Delhi,Plot,2384,0,0,0,15453088
+"Sector 56, Gurugram",Gurugram,House,2049,1,3,20,21520647
+"Lajpat Nagar, Delhi",Delhi,Plot,3652,0,0,0,30917832
+"Sector 56, Gurugram",Gurugram,Apartment,2346,2,1,13,32027592
+"Sector 45, Gurugram",Gurugram,House,1240,1,2,2,18307360
+"Sector 56, Gurugram",Gurugram,House,4529,3,2,21,67572680
+"Lajpat Nagar, Delhi",Delhi,House,4151,4,2,18,48562549
+"Sector 56, Gurugram",Gurugram,Plot,1925,0,0,0,25854675
+"MG Road, Gurugram",Gurugram,Apartment,1990,5,2,3,25591400
+"Rohini, Delhi",Delhi,Plot,872,0,0,0,10003584
+"Saket, Delhi",Delhi,Plot,3272,0,0,0,29598512
+"Karol Bagh, Delhi",Delhi,House,2604,1,2,27,22300656
+"Sushant Lok, Gurugram",Gurugram,Apartment,4410,5,2,7,31161060
+"Dwarka, Delhi",Delhi,Plot,3861,0,0,0,32540508
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1141,2,3,11,11023201
+"Sushant Lok, Gurugram",Gurugram,Apartment,2032,3,2,22,22780752
+"Karol Bagh, Delhi",Delhi,House,1461,4,2,3,11495148
+"Sushant Lok, Gurugram",Gurugram,House,3134,1,3,15,29751062
+"Dwarka, Delhi",Delhi,Apartment,1432,4,1,15,11357192
+"Saket, Delhi",Delhi,House,3362,5,3,27,36057450
+"Lajpat Nagar, Delhi",Delhi,Plot,4743,0,0,0,53913681
+"Rohini, Delhi",Delhi,Apartment,3168,1,2,20,35491104
+"Sector 56, Gurugram",Gurugram,Apartment,2566,1,1,15,37763822
+"Rohini, Delhi",Delhi,House,2323,2,1,13,24568048
+"Sector 45, Gurugram",Gurugram,Plot,2401,0,0,0,17623340
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3617,3,1,8,46883554
+"Karol Bagh, Delhi",Delhi,House,2525,2,2,22,15809025
+"Sector 45, Gurugram",Gurugram,House,1205,3,3,21,17192940
+"Karol Bagh, Delhi",Delhi,House,1043,2,3,16,10572891
+"Rohini, Delhi",Delhi,Plot,1393,0,0,0,16086364
+"Karol Bagh, Delhi",Delhi,Apartment,4029,2,2,13,24709857
+"Saket, Delhi",Delhi,House,4719,4,2,8,49521186
+"Saket, Delhi",Delhi,House,3778,2,2,19,39143858
+"Karol Bagh, Delhi",Delhi,House,2785,1,1,21,31771280
+"Lajpat Nagar, Delhi",Delhi,House,894,1,2,15,9759798
+"Saket, Delhi",Delhi,House,3746,3,1,5,26401808
+"Karol Bagh, Delhi",Delhi,Plot,3329,0,0,0,29841156
+"Saket, Delhi",Delhi,Apartment,1763,1,3,3,18023149
+"Sector 56, Gurugram",Gurugram,Apartment,4987,5,3,13,63718899
+"Dwarka, Delhi",Delhi,Apartment,3836,4,3,5,33446084
+"Sushant Lok, Gurugram",Gurugram,Apartment,4938,2,3,18,72262692
+"Saket, Delhi",Delhi,House,2753,2,1,1,27117050
+"Saket, Delhi",Delhi,Apartment,2750,1,3,18,27434000
+"Lajpat Nagar, Delhi",Delhi,Plot,1979,0,0,0,20354015
+"Sector 56, Gurugram",Gurugram,Apartment,1682,4,1,3,14529116
+"DLF Phase 1, Gurugram",Gurugram,House,2948,4,1,19,33073612
+"MG Road, Gurugram",Gurugram,Plot,4102,0,0,0,60689090
+"Sector 56, Gurugram",Gurugram,Plot,1567,0,0,0,21351942
+"Sector 45, Gurugram",Gurugram,Apartment,2939,5,1,21,34107095
+"Dwarka, Delhi",Delhi,Apartment,3093,5,2,22,35699406
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3884,5,2,17,50942544
+"Saket, Delhi",Delhi,Plot,1471,0,0,0,9065773
+"DLF Phase 1, Gurugram",Gurugram,Plot,3842,0,0,0,45316390
+"Sector 56, Gurugram",Gurugram,House,3242,5,3,20,41585134
+"Lajpat Nagar, Delhi",Delhi,House,1345,4,2,7,15957080
+"Sector 45, Gurugram",Gurugram,Apartment,2259,5,2,9,21849048
+"MG Road, Gurugram",Gurugram,Plot,816,0,0,0,6031872
+"DLF Phase 1, Gurugram",Gurugram,House,1224,1,2,27,16122528
+"Sushant Lok, Gurugram",Gurugram,Plot,1920,0,0,0,20922240
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4895,4,1,27,58025330
+"Sector 56, Gurugram",Gurugram,Apartment,3649,3,2,7,51447251
+"Saket, Delhi",Delhi,Plot,4726,0,0,0,32396730
+"Sector 56, Gurugram",Gurugram,House,2948,5,1,22,43595024
+"DLF Phase 1, Gurugram",Gurugram,Apartment,4306,3,1,4,57786520
+"Dwarka, Delhi",Delhi,Plot,4697,0,0,0,37341150
+"Lajpat Nagar, Delhi",Delhi,Plot,2474,0,0,0,26053694
+"Karol Bagh, Delhi",Delhi,Plot,3346,0,0,0,21956452
+"Saket, Delhi",Delhi,Apartment,3289,5,1,29,26433693
+"Sector 45, Gurugram",Gurugram,House,3367,2,2,14,45491537
+"DLF Phase 1, Gurugram",Gurugram,House,4091,1,3,7,30105669
+"Dwarka, Delhi",Delhi,House,3176,2,3,17,22111312
+"MG Road, Gurugram",Gurugram,House,2627,4,2,8,29716624
+"MG Road, Gurugram",Gurugram,Plot,1177,0,0,0,13282445
+"Dwarka, Delhi",Delhi,Plot,1169,0,0,0,13907593
+"Saket, Delhi",Delhi,Plot,4547,0,0,0,30242097
+"Saket, Delhi",Delhi,Plot,1569,0,0,0,13212549
+"Rohini, Delhi",Delhi,House,2516,4,2,10,16406836
+"Rohini, Delhi",Delhi,House,3120,2,3,8,36766080
+"Rohini, Delhi",Delhi,Apartment,4497,4,2,19,53262468
+"DLF Phase 1, Gurugram",Gurugram,House,4159,3,2,16,46023494
+"Rohini, Delhi",Delhi,Plot,2367,0,0,0,26844147
+"MG Road, Gurugram",Gurugram,Apartment,838,1,1,14,8772184
+"Dwarka, Delhi",Delhi,House,3508,4,3,21,23366788
+"Dwarka, Delhi",Delhi,Apartment,2168,4,1,12,20676216
+"Sector 56, Gurugram",Gurugram,House,1082,2,3,14,13553132
+"Karol Bagh, Delhi",Delhi,House,4983,4,1,21,48604182
+"Saket, Delhi",Delhi,Plot,2524,0,0,0,18617024
+"MG Road, Gurugram",Gurugram,Apartment,1314,3,3,28,16984764
+"Rohini, Delhi",Delhi,House,2104,5,3,7,13383544
+"Saket, Delhi",Delhi,House,4527,1,1,2,29190096
+"Karol Bagh, Delhi",Delhi,Apartment,2655,2,2,10,22620600
+"Sushant Lok, Gurugram",Gurugram,Apartment,2228,3,3,1,27030096
+"MG Road, Gurugram",Gurugram,Plot,3347,0,0,0,45991127
+"Rohini, Delhi",Delhi,House,3081,2,2,21,27984723
+"Rohini, Delhi",Delhi,House,1837,1,2,20,15860658
+"Sector 56, Gurugram",Gurugram,Plot,2578,0,0,0,31423242
+"Sushant Lok, Gurugram",Gurugram,House,4695,3,1,25,69439050
+"Saket, Delhi",Delhi,Apartment,2204,4,2,23,15456652
+"Dwarka, Delhi",Delhi,House,2628,5,2,7,28818648
+"Rohini, Delhi",Delhi,House,2885,4,1,12,24003200
+"DLF Phase 1, Gurugram",Gurugram,Plot,3430,0,0,0,35301560
+"Sector 56, Gurugram",Gurugram,Apartment,4386,5,2,22,48066174
+"Sector 56, Gurugram",Gurugram,Plot,3613,0,0,0,25872693
+"Saket, Delhi",Delhi,Plot,1393,0,0,0,12897787
+"Saket, Delhi",Delhi,Plot,3762,0,0,0,37198656
+"Sector 45, Gurugram",Gurugram,Apartment,1463,5,2,25,17901268
+"Lajpat Nagar, Delhi",Delhi,Plot,3774,0,0,0,25916058
+"Sector 45, Gurugram",Gurugram,Apartment,2866,5,2,22,27307248
+"DLF Phase 1, Gurugram",Gurugram,Plot,1969,0,0,0,17033819
+"DLF Phase 1, Gurugram",Gurugram,Plot,1936,0,0,0,14471600
+"Sector 45, Gurugram",Gurugram,House,3610,3,1,27,31897960
+"Lajpat Nagar, Delhi",Delhi,Apartment,3248,4,3,26,20780704
+"Lajpat Nagar, Delhi",Delhi,House,2925,4,3,6,31288725
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1636,1,1,9,21088040
+"Rohini, Delhi",Delhi,Plot,4496,0,0,0,35450960
+"Sector 56, Gurugram",Gurugram,Apartment,3557,1,3,12,49442300
+"Karol Bagh, Delhi",Delhi,House,4786,2,3,13,52727362
+"Karol Bagh, Delhi",Delhi,Apartment,2803,1,1,9,18788509
+"Lajpat Nagar, Delhi",Delhi,Apartment,3203,2,2,6,35569315
+"Sushant Lok, Gurugram",Gurugram,House,3639,1,2,8,27965715
+"DLF Phase 1, Gurugram",Gurugram,Plot,2419,0,0,0,29221520
+"Rohini, Delhi",Delhi,Apartment,2231,4,2,29,16431315
+"Sector 45, Gurugram",Gurugram,Plot,962,0,0,0,9899942
+"Saket, Delhi",Delhi,House,1069,2,2,30,8168229
+"Saket, Delhi",Delhi,Plot,1004,0,0,0,6607324
+"Sushant Lok, Gurugram",Gurugram,House,1640,5,3,19,12913360
+"Sushant Lok, Gurugram",Gurugram,Apartment,1489,1,3,6,20521398
+"MG Road, Gurugram",Gurugram,Plot,2222,0,0,0,33167794
+"Sushant Lok, Gurugram",Gurugram,Apartment,1971,5,2,25,21600189
+"Lajpat Nagar, Delhi",Delhi,Plot,3161,0,0,0,35406361
+"DLF Phase 1, Gurugram",Gurugram,House,4470,2,1,23,39952860
+"Sushant Lok, Gurugram",Gurugram,Plot,1170,0,0,0,13979160
+"Sector 56, Gurugram",Gurugram,House,2731,1,1,8,40623625
+"Sushant Lok, Gurugram",Gurugram,Plot,1694,0,0,0,17045028
+"Lajpat Nagar, Delhi",Delhi,Plot,3136,0,0,0,33517568
+"Sector 45, Gurugram",Gurugram,Plot,1372,0,0,0,17561600
+"Sector 56, Gurugram",Gurugram,Apartment,4469,1,1,1,38062473
+"MG Road, Gurugram",Gurugram,House,3457,1,2,20,29512409
+"Lajpat Nagar, Delhi",Delhi,Plot,3937,0,0,0,24003889
+"Lajpat Nagar, Delhi",Delhi,Apartment,4550,4,3,7,51929150
+"Sushant Lok, Gurugram",Gurugram,Apartment,1410,3,3,16,12801390
+"Karol Bagh, Delhi",Delhi,Apartment,3124,4,2,30,22152284
+"Sector 56, Gurugram",Gurugram,House,3591,5,3,21,49365477
+"Saket, Delhi",Delhi,Apartment,1581,3,1,8,12814005
+"Sector 56, Gurugram",Gurugram,House,2913,1,2,2,23499171
+"Lajpat Nagar, Delhi",Delhi,House,2377,4,3,5,18573878
+"Karol Bagh, Delhi",Delhi,Plot,3226,0,0,0,36444122
+"Lajpat Nagar, Delhi",Delhi,House,3351,4,2,7,28667805
+"Lajpat Nagar, Delhi",Delhi,Plot,3011,0,0,0,19523324
+"Karol Bagh, Delhi",Delhi,Plot,3085,0,0,0,34622955
+"Sector 45, Gurugram",Gurugram,House,4325,4,2,6,58517250
+"MG Road, Gurugram",Gurugram,House,3724,3,3,17,41466740
+"Sector 56, Gurugram",Gurugram,House,3776,4,1,22,53132096
+"Saket, Delhi",Delhi,Apartment,1487,3,1,3,13402331
+"Sector 45, Gurugram",Gurugram,Apartment,2581,3,1,11,36606323
+"MG Road, Gurugram",Gurugram,House,1374,5,3,20,10537206
+"Sector 45, Gurugram",Gurugram,Plot,2083,0,0,0,16924375
+"Sushant Lok, Gurugram",Gurugram,House,2329,3,3,26,30915146
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3200,4,1,19,47465600
+"MG Road, Gurugram",Gurugram,Plot,3869,0,0,0,53562436
+"Sector 56, Gurugram",Gurugram,House,4347,5,1,19,54567891
+"Dwarka, Delhi",Delhi,Apartment,1445,3,1,10,16717205
+"Sector 45, Gurugram",Gurugram,Apartment,2699,1,1,23,32595823
+"Karol Bagh, Delhi",Delhi,House,1954,4,2,25,19694366
+"Saket, Delhi",Delhi,House,4631,2,2,0,32324380
+"Sector 56, Gurugram",Gurugram,Apartment,2515,2,1,18,28753995
+"Lajpat Nagar, Delhi",Delhi,House,1898,1,3,15,13086710
+"Sector 45, Gurugram",Gurugram,Plot,2474,0,0,0,36986300
+"Lajpat Nagar, Delhi",Delhi,Apartment,1730,1,1,15,12263970
+"MG Road, Gurugram",Gurugram,Plot,1735,0,0,0,12413925
+"DLF Phase 1, Gurugram",Gurugram,Plot,1870,0,0,0,17766870
+"Rohini, Delhi",Delhi,House,4630,3,2,24,55254420
+"Lajpat Nagar, Delhi",Delhi,Plot,2136,0,0,0,20719200
+"Sector 56, Gurugram",Gurugram,Apartment,4173,4,2,3,60792264
+"Rohini, Delhi",Delhi,Apartment,1192,3,1,14,9842344
+"Sushant Lok, Gurugram",Gurugram,Apartment,4608,3,3,22,49185792
+"Sector 56, Gurugram",Gurugram,Apartment,2177,4,1,7,27817706
+"Dwarka, Delhi",Delhi,Plot,4717,0,0,0,54839842
+"MG Road, Gurugram",Gurugram,Plot,2704,0,0,0,20071792
+"Lajpat Nagar, Delhi",Delhi,House,2550,1,3,13,22812300
+"Dwarka, Delhi",Delhi,House,3131,4,1,6,30649359
+"Rohini, Delhi",Delhi,Apartment,3610,4,3,24,27186910
+"DLF Phase 1, Gurugram",Gurugram,Plot,3790,0,0,0,30861970
+"Rohini, Delhi",Delhi,Apartment,1733,5,1,3,14751296
+"Dwarka, Delhi",Delhi,House,1064,1,1,13,12046608
+"Karol Bagh, Delhi",Delhi,House,2562,1,3,13,21185178
+"Dwarka, Delhi",Delhi,Apartment,867,4,2,8,10158639
+"Sector 45, Gurugram",Gurugram,House,3998,5,2,16,34754614
+"Saket, Delhi",Delhi,Plot,3115,0,0,0,34744710
+"DLF Phase 1, Gurugram",Gurugram,Plot,2385,0,0,0,30733110
+"Sector 56, Gurugram",Gurugram,Plot,1460,0,0,0,18137580
+"Sushant Lok, Gurugram",Gurugram,House,2099,5,3,11,30158432
+"Lajpat Nagar, Delhi",Delhi,Apartment,4316,1,3,16,45650332
+"Sector 56, Gurugram",Gurugram,Plot,3327,0,0,0,40346529
+"Rohini, Delhi",Delhi,House,1142,4,2,11,7452692
+"Dwarka, Delhi",Delhi,Apartment,2873,4,1,21,21757229
+"Sector 45, Gurugram",Gurugram,Plot,4540,0,0,0,50970580
+"Rohini, Delhi",Delhi,Apartment,2646,4,2,11,17405388
+"Sushant Lok, Gurugram",Gurugram,House,993,2,3,22,8730456
+"Sector 56, Gurugram",Gurugram,Plot,1910,0,0,0,27559390
+"Saket, Delhi",Delhi,Apartment,3061,1,2,16,33288375
+"Lajpat Nagar, Delhi",Delhi,Plot,1529,0,0,0,15867962
+"MG Road, Gurugram",Gurugram,Plot,4251,0,0,0,62132616
+"Lajpat Nagar, Delhi",Delhi,Plot,2940,0,0,0,22473360
+"Karol Bagh, Delhi",Delhi,Apartment,941,3,1,19,11238363
+"Sector 56, Gurugram",Gurugram,Apartment,2896,1,2,7,33301104
+"Sector 45, Gurugram",Gurugram,House,1140,5,1,29,17087460
+"Sushant Lok, Gurugram",Gurugram,House,3229,1,1,23,38463848
+"Sushant Lok, Gurugram",Gurugram,Apartment,1655,5,3,26,16735360
+"Sector 45, Gurugram",Gurugram,Plot,2317,0,0,0,19360852
+"Saket, Delhi",Delhi,Apartment,2974,5,1,7,28821034
+"Sector 45, Gurugram",Gurugram,House,4203,5,1,12,57110364
+"Rohini, Delhi",Delhi,House,4111,1,1,25,28723557
+"Dwarka, Delhi",Delhi,Apartment,973,5,3,22,9496480
+"Sector 45, Gurugram",Gurugram,Plot,2675,0,0,0,29513275
+"Rohini, Delhi",Delhi,House,1789,1,3,3,11794877
+"MG Road, Gurugram",Gurugram,House,2574,4,1,0,26895726
+"Rohini, Delhi",Delhi,Plot,3502,0,0,0,35041012
+"Sector 56, Gurugram",Gurugram,Apartment,4668,1,2,1,41386488
+"Lajpat Nagar, Delhi",Delhi,Plot,2796,0,0,0,31832460
+"Dwarka, Delhi",Delhi,House,3989,1,1,6,46507751
+"Rohini, Delhi",Delhi,Apartment,3955,3,1,1,30168740
+"Rohini, Delhi",Delhi,Apartment,1186,2,1,8,11970298
+"Sector 56, Gurugram",Gurugram,Apartment,3266,3,1,22,46145314
+"Sector 45, Gurugram",Gurugram,Plot,2036,0,0,0,22689184
+"Sector 56, Gurugram",Gurugram,House,1950,1,3,23,28198950
+"Lajpat Nagar, Delhi",Delhi,Plot,2619,0,0,0,21800556
+"Rohini, Delhi",Delhi,Apartment,1930,2,3,12,12301820
+"Sector 45, Gurugram",Gurugram,Plot,4820,0,0,0,51598100
+"Sector 45, Gurugram",Gurugram,Apartment,4059,4,2,2,49824225
+"Saket, Delhi",Delhi,Plot,4043,0,0,0,45119880
+"Sushant Lok, Gurugram",Gurugram,Apartment,2870,3,2,26,24782450
+"Dwarka, Delhi",Delhi,House,4800,2,1,6,44481600
+"Karol Bagh, Delhi",Delhi,Apartment,2391,1,1,14,22042629
+"Dwarka, Delhi",Delhi,House,4073,4,2,27,30311266
+"Sushant Lok, Gurugram",Gurugram,Plot,3854,0,0,0,40644284
+"MG Road, Gurugram",Gurugram,House,3728,5,2,15,31550064
+"Karol Bagh, Delhi",Delhi,House,4075,1,3,3,47856800
+"Sushant Lok, Gurugram",Gurugram,House,2257,5,2,23,16796594
+"Lajpat Nagar, Delhi",Delhi,House,4450,3,1,3,31942100
+"Lajpat Nagar, Delhi",Delhi,Apartment,2057,3,2,5,24572922
+"Karol Bagh, Delhi",Delhi,House,1710,5,2,9,13968990
+"Sector 56, Gurugram",Gurugram,Plot,923,0,0,0,12727247
+"Sushant Lok, Gurugram",Gurugram,Plot,1585,0,0,0,12356660
+"Lajpat Nagar, Delhi",Delhi,Apartment,4972,3,3,29,57769668
+"Dwarka, Delhi",Delhi,Apartment,2956,4,1,4,24688512
+"Lajpat Nagar, Delhi",Delhi,Apartment,3521,5,2,20,40484458
+"Saket, Delhi",Delhi,Apartment,1746,3,2,1,12988494
+"Saket, Delhi",Delhi,Plot,1140,0,0,0,10247460
+"Sector 56, Gurugram",Gurugram,Apartment,2356,4,3,6,20077832
+"Karol Bagh, Delhi",Delhi,Plot,4256,0,0,0,32460512
+"Dwarka, Delhi",Delhi,House,2103,5,3,12,15002802
+"Rohini, Delhi",Delhi,Apartment,2986,4,3,28,27381620
+"DLF Phase 1, Gurugram",Gurugram,House,2951,1,2,18,23602098
+"Sector 56, Gurugram",Gurugram,Apartment,3367,4,1,16,31013437
+"Sector 56, Gurugram",Gurugram,House,2709,3,3,26,35176365
+"Sector 45, Gurugram",Gurugram,House,1066,5,3,11,11440312
+"Sushant Lok, Gurugram",Gurugram,Plot,4629,0,0,0,34601775
+"Rohini, Delhi",Delhi,House,1776,4,1,13,19736688
+"Saket, Delhi",Delhi,Plot,1682,0,0,0,13782308
+"Lajpat Nagar, Delhi",Delhi,Plot,3467,0,0,0,41142889
+"Karol Bagh, Delhi",Delhi,Plot,2410,0,0,0,22866080
+"DLF Phase 1, Gurugram",Gurugram,House,3254,3,3,24,34284144
+"Saket, Delhi",Delhi,Apartment,4602,2,3,14,45200844
+"Sector 56, Gurugram",Gurugram,Apartment,1702,5,3,15,24672192
+"Lajpat Nagar, Delhi",Delhi,House,2663,4,1,16,22326592
+"Dwarka, Delhi",Delhi,Apartment,4735,3,3,5,54177870
+"Rohini, Delhi",Delhi,Apartment,1742,5,3,22,15272114
+"Dwarka, Delhi",Delhi,House,3327,5,2,10,32957262
+"Dwarka, Delhi",Delhi,Apartment,3753,2,2,20,30020247
+"Sector 56, Gurugram",Gurugram,House,4552,3,2,24,50590928
+"Sector 56, Gurugram",Gurugram,Apartment,3111,2,1,7,23460051
+"Sushant Lok, Gurugram",Gurugram,House,3494,3,1,3,29950568
+"DLF Phase 1, Gurugram",Gurugram,Plot,3758,0,0,0,42224888
+"Sector 45, Gurugram",Gurugram,Apartment,2567,5,1,30,27587549
+"Dwarka, Delhi",Delhi,Plot,3041,0,0,0,27901175
+"Karol Bagh, Delhi",Delhi,House,4136,2,2,13,26524168
+"Dwarka, Delhi",Delhi,House,2181,3,3,7,15068529
+"Sector 56, Gurugram",Gurugram,House,4844,5,2,12,44225720
+"Sector 45, Gurugram",Gurugram,Apartment,1157,2,1,22,17254341
+"Rohini, Delhi",Delhi,Plot,2297,0,0,0,25570204
+"Saket, Delhi",Delhi,House,2958,4,2,6,26477058
+"DLF Phase 1, Gurugram",Gurugram,House,1773,3,2,28,19286694
+"MG Road, Gurugram",Gurugram,House,3168,1,1,29,31135104
+"Saket, Delhi",Delhi,House,2356,3,1,18,17208224
+"Saket, Delhi",Delhi,Plot,3184,0,0,0,19683488
+"MG Road, Gurugram",Gurugram,Apartment,2389,4,2,13,16847228
+"Sector 56, Gurugram",Gurugram,House,3107,5,3,22,24964745
+"Sushant Lok, Gurugram",Gurugram,Plot,4502,0,0,0,65085414
+"Dwarka, Delhi",Delhi,House,2064,2,1,25,16117776
+"Saket, Delhi",Delhi,Plot,4597,0,0,0,38343577
+"Rohini, Delhi",Delhi,House,4214,2,1,5,29026032
+"Rohini, Delhi",Delhi,Apartment,1467,3,1,0,17219646
+"Dwarka, Delhi",Delhi,Plot,1618,0,0,0,13248184
+"Rohini, Delhi",Delhi,House,3024,4,3,4,25546752
+"Rohini, Delhi",Delhi,House,1270,2,1,0,12571730
+"Rohini, Delhi",Delhi,House,4600,2,3,22,45061600
+"Sushant Lok, Gurugram",Gurugram,Apartment,1034,5,1,0,7777748
+"Sushant Lok, Gurugram",Gurugram,House,4323,1,2,8,61049406
+"Saket, Delhi",Delhi,House,2116,2,1,4,24590036
+"Rohini, Delhi",Delhi,Apartment,3387,1,3,14,25466853
+"Lajpat Nagar, Delhi",Delhi,House,1026,4,1,27,11874924
+"Dwarka, Delhi",Delhi,House,3057,5,1,3,24694446
+"Karol Bagh, Delhi",Delhi,Plot,4037,0,0,0,46740386
+"Sector 56, Gurugram",Gurugram,Apartment,2805,1,1,22,24605460
+"Rohini, Delhi",Delhi,Plot,961,0,0,0,9586936
+"Dwarka, Delhi",Delhi,Apartment,1575,4,2,2,17556525
+"Sector 56, Gurugram",Gurugram,Plot,1739,0,0,0,13110321
+"Dwarka, Delhi",Delhi,House,2261,1,1,27,14095074
+"Lajpat Nagar, Delhi",Delhi,Plot,2348,0,0,0,19009408
+"Sector 45, Gurugram",Gurugram,House,2901,2,1,11,30915957
+"Sushant Lok, Gurugram",Gurugram,Plot,4396,0,0,0,44720508
+"Rohini, Delhi",Delhi,Plot,2615,0,0,0,25734215
+"Rohini, Delhi",Delhi,Apartment,1474,1,3,14,12766314
+"Sushant Lok, Gurugram",Gurugram,Plot,4651,0,0,0,55714329
+"MG Road, Gurugram",Gurugram,House,1539,2,2,5,16810497
+"Saket, Delhi",Delhi,Apartment,4027,1,2,11,39730382
+"Rohini, Delhi",Delhi,Plot,4564,0,0,0,53859764
+"Sushant Lok, Gurugram",Gurugram,Apartment,3022,1,2,4,33432386
+"Sector 45, Gurugram",Gurugram,Apartment,2324,1,1,22,22231384
+"MG Road, Gurugram",Gurugram,House,3603,1,2,11,27811557
+"DLF Phase 1, Gurugram",Gurugram,House,1772,4,3,18,16314804
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3830,1,1,21,29272690
+"Sector 56, Gurugram",Gurugram,Plot,994,0,0,0,7443072
+"Sector 56, Gurugram",Gurugram,Plot,3004,0,0,0,37084380
+"Sushant Lok, Gurugram",Gurugram,Plot,4076,0,0,0,49902468
+"Rohini, Delhi",Delhi,Plot,2041,0,0,0,13297115
+"Sector 56, Gurugram",Gurugram,Plot,1192,0,0,0,12773472
+"MG Road, Gurugram",Gurugram,House,2647,4,2,10,36218901
+"Dwarka, Delhi",Delhi,Apartment,1077,1,1,26,12072093
+"Lajpat Nagar, Delhi",Delhi,Apartment,4070,2,1,25,46857910
+"Saket, Delhi",Delhi,House,1260,5,3,30,11948580
+"Karol Bagh, Delhi",Delhi,House,1290,1,1,14,11833170
+"MG Road, Gurugram",Gurugram,Apartment,2523,1,3,30,26019699
+"Karol Bagh, Delhi",Delhi,Apartment,3641,1,2,4,43469899
+"Saket, Delhi",Delhi,Plot,3095,0,0,0,36165075
+"Karol Bagh, Delhi",Delhi,House,3793,3,2,14,33313919
+"DLF Phase 1, Gurugram",Gurugram,House,3300,2,2,9,29475600
+"Sector 45, Gurugram",Gurugram,House,4094,3,2,5,39167298
+"Lajpat Nagar, Delhi",Delhi,House,4299,5,3,11,39688368
+"Sector 45, Gurugram",Gurugram,Apartment,4623,3,1,17,55281834
+"Karol Bagh, Delhi",Delhi,House,4363,1,3,27,38145709
+"Sector 56, Gurugram",Gurugram,House,3293,1,3,4,44182181
+"Karol Bagh, Delhi",Delhi,Plot,1669,0,0,0,11491065
+"Lajpat Nagar, Delhi",Delhi,House,2083,4,3,28,20084286
+"DLF Phase 1, Gurugram",Gurugram,House,4225,1,3,10,41806375
+"Sector 56, Gurugram",Gurugram,Apartment,1729,5,2,7,18021367
+"Sector 56, Gurugram",Gurugram,Apartment,2819,1,3,6,30070273
+"Sushant Lok, Gurugram",Gurugram,Apartment,4471,2,2,28,45224165
+"Sector 56, Gurugram",Gurugram,Plot,3268,0,0,0,28222448
+"Karol Bagh, Delhi",Delhi,Plot,4383,0,0,0,43869447
+"Rohini, Delhi",Delhi,Plot,3018,0,0,0,35754246
+"DLF Phase 1, Gurugram",Gurugram,Plot,3169,0,0,0,30115007
+"Sushant Lok, Gurugram",Gurugram,Plot,1743,0,0,0,17145891
+"Rohini, Delhi",Delhi,Plot,3460,0,0,0,30918560
+"Dwarka, Delhi",Delhi,Plot,4747,0,0,0,36437972
+"Sector 45, Gurugram",Gurugram,House,4905,4,1,21,37601730
+"Dwarka, Delhi",Delhi,Apartment,2976,1,1,6,29236224
+"MG Road, Gurugram",Gurugram,House,1779,4,1,29,18554970
+"Saket, Delhi",Delhi,Plot,4474,0,0,0,44422346
+"Sector 45, Gurugram",Gurugram,Apartment,915,5,1,26,12322305
+"Rohini, Delhi",Delhi,Apartment,3808,2,1,25,23430624
+"Lajpat Nagar, Delhi",Delhi,Apartment,4499,2,3,10,31780936
+"Rohini, Delhi",Delhi,Plot,2713,0,0,0,19577008
+"Sector 56, Gurugram",Gurugram,Plot,3201,0,0,0,28680960
+"Sushant Lok, Gurugram",Gurugram,Apartment,3580,4,1,10,43110360
+"Lajpat Nagar, Delhi",Delhi,Plot,1460,0,0,0,12607100
+"DLF Phase 1, Gurugram",Gurugram,House,4754,3,1,27,64036380
+"Lajpat Nagar, Delhi",Delhi,House,2979,2,3,17,25842825
+"Dwarka, Delhi",Delhi,House,4775,1,3,15,31581850
+"Dwarka, Delhi",Delhi,Plot,3771,0,0,0,36069615
+"Sector 45, Gurugram",Gurugram,House,1070,3,1,0,15458290
+"Sushant Lok, Gurugram",Gurugram,House,4154,5,2,28,39807782
+"Dwarka, Delhi",Delhi,Plot,4873,0,0,0,44222475
+"Lajpat Nagar, Delhi",Delhi,House,1089,1,1,22,10075428
+"Rohini, Delhi",Delhi,Apartment,1078,5,1,30,6740734
+"Rohini, Delhi",Delhi,Plot,1624,0,0,0,15967168
+"MG Road, Gurugram",Gurugram,Plot,2180,0,0,0,18907140
+"Saket, Delhi",Delhi,Apartment,3527,5,1,19,41033118
+"Dwarka, Delhi",Delhi,Apartment,1141,4,2,18,13269830
+"Rohini, Delhi",Delhi,Apartment,3598,1,1,12,33871572
+"Dwarka, Delhi",Delhi,House,1105,5,1,15,12740650
+"Sector 45, Gurugram",Gurugram,House,4250,4,3,15,51599250
+"MG Road, Gurugram",Gurugram,Plot,1109,0,0,0,9971019
+"Sushant Lok, Gurugram",Gurugram,Plot,1071,0,0,0,11873106
+"Lajpat Nagar, Delhi",Delhi,Apartment,2622,2,2,26,27135078
+"Karol Bagh, Delhi",Delhi,House,1776,3,2,21,15188352
+"DLF Phase 1, Gurugram",Gurugram,Plot,4707,0,0,0,63916353
+"Sector 56, Gurugram",Gurugram,House,952,3,1,4,12330304
+"Karol Bagh, Delhi",Delhi,Apartment,2552,3,1,8,28046480
+"Sushant Lok, Gurugram",Gurugram,House,4999,3,2,0,37022594
+"Sushant Lok, Gurugram",Gurugram,House,966,5,2,24,10132374
+"Sector 45, Gurugram",Gurugram,Plot,1480,0,0,0,13497600
+"Sushant Lok, Gurugram",Gurugram,Plot,2163,0,0,0,20098596
+"DLF Phase 1, Gurugram",Gurugram,House,2338,1,3,16,20815214
+"Karol Bagh, Delhi",Delhi,House,974,5,3,0,9662080
+"Karol Bagh, Delhi",Delhi,Apartment,2297,4,2,16,25142962
+"Lajpat Nagar, Delhi",Delhi,Plot,2707,0,0,0,25689430
+"Saket, Delhi",Delhi,Plot,4973,0,0,0,44125429
+"Karol Bagh, Delhi",Delhi,Plot,2093,0,0,0,22539517
+"Rohini, Delhi",Delhi,Apartment,4186,5,3,5,29268512
+"Rohini, Delhi",Delhi,House,3186,5,1,4,29970702
+"Sector 45, Gurugram",Gurugram,House,1799,5,2,2,17563637
+"MG Road, Gurugram",Gurugram,Plot,4463,0,0,0,65704286
+"Saket, Delhi",Delhi,House,2281,1,3,3,19331475
+"MG Road, Gurugram",Gurugram,Plot,2337,0,0,0,18420234
+"Sector 56, Gurugram",Gurugram,Plot,4868,0,0,0,46567288
+"Dwarka, Delhi",Delhi,Plot,4077,0,0,0,25986798
+"Sector 45, Gurugram",Gurugram,Plot,4497,0,0,0,52569930
+"Saket, Delhi",Delhi,Apartment,4050,2,1,16,45080550
+"Lajpat Nagar, Delhi",Delhi,House,3178,5,3,11,23593472
+"Karol Bagh, Delhi",Delhi,Plot,3968,0,0,0,25855488
+"DLF Phase 1, Gurugram",Gurugram,Apartment,1687,3,1,29,18474337
+"Saket, Delhi",Delhi,Plot,4360,0,0,0,26238480
+"Sector 45, Gurugram",Gurugram,House,2273,4,1,12,24468845
+"Rohini, Delhi",Delhi,Plot,3238,0,0,0,33383780
+"Karol Bagh, Delhi",Delhi,House,4274,5,1,23,37444514
+"Sector 45, Gurugram",Gurugram,Apartment,2215,2,2,28,29149400
+"MG Road, Gurugram",Gurugram,House,3169,2,1,27,37318144
+"Sector 45, Gurugram",Gurugram,Apartment,2788,2,2,19,36422432
+"Dwarka, Delhi",Delhi,House,4602,1,3,26,38813268
+"Saket, Delhi",Delhi,Plot,1007,0,0,0,11714431
+"MG Road, Gurugram",Gurugram,House,3433,2,3,22,38840962
+"Dwarka, Delhi",Delhi,Plot,2318,0,0,0,19934800
+"Rohini, Delhi",Delhi,Apartment,2995,4,3,19,28614230
+"Sector 45, Gurugram",Gurugram,Plot,3649,0,0,0,31899558
+"Karol Bagh, Delhi",Delhi,Plot,2106,0,0,0,20741994
+"Lajpat Nagar, Delhi",Delhi,House,4995,3,2,28,35404560
+"Karol Bagh, Delhi",Delhi,Apartment,1977,1,2,20,21266589
+"Dwarka, Delhi",Delhi,House,1359,5,3,23,10617867
+"MG Road, Gurugram",Gurugram,House,1409,1,1,27,13988552
+"Lajpat Nagar, Delhi",Delhi,House,1891,1,1,3,11501062
+"Dwarka, Delhi",Delhi,House,4291,1,1,13,45969483
+"Sushant Lok, Gurugram",Gurugram,Apartment,975,1,2,17,8873475
+"Rohini, Delhi",Delhi,House,4290,4,3,20,49455120
+"Sector 45, Gurugram",Gurugram,House,4142,4,1,26,41262604
+"Rohini, Delhi",Delhi,Plot,1659,0,0,0,16351104
+"Sector 56, Gurugram",Gurugram,Apartment,3224,1,2,17,40661088
+"Sector 56, Gurugram",Gurugram,Apartment,4551,1,1,22,57338049
+"DLF Phase 1, Gurugram",Gurugram,Plot,3584,0,0,0,40011776
+"Sector 45, Gurugram",Gurugram,Plot,3146,0,0,0,37427962
+"Karol Bagh, Delhi",Delhi,House,3050,5,2,2,30198050
+"Rohini, Delhi",Delhi,Apartment,1984,3,2,29,14536768
+"Sushant Lok, Gurugram",Gurugram,House,2473,2,2,30,30375859
+"Sector 56, Gurugram",Gurugram,Apartment,3166,5,2,2,24913254
+"Sector 45, Gurugram",Gurugram,Plot,1814,0,0,0,13790028
+"Sushant Lok, Gurugram",Gurugram,House,4621,3,2,9,53072185
+"DLF Phase 1, Gurugram",Gurugram,Plot,1094,0,0,0,12063538
+"MG Road, Gurugram",Gurugram,Plot,3643,0,0,0,31756031
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3396,1,2,23,47530416
+"Dwarka, Delhi",Delhi,Plot,3617,0,0,0,23307948
+"Saket, Delhi",Delhi,Apartment,1541,2,2,27,18088258
+"Saket, Delhi",Delhi,Plot,2158,0,0,0,13081796
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3359,3,2,24,46740485
+"Rohini, Delhi",Delhi,Apartment,934,5,3,21,7598090
+"Karol Bagh, Delhi",Delhi,House,4078,1,3,2,45139382
+"MG Road, Gurugram",Gurugram,House,920,1,2,5,11134760
+"Dwarka, Delhi",Delhi,Apartment,1724,5,1,9,13909232
+"Rohini, Delhi",Delhi,House,3468,4,3,2,38352612
+"Lajpat Nagar, Delhi",Delhi,House,995,4,3,23,10786795
+"MG Road, Gurugram",Gurugram,Plot,1076,0,0,0,11179640
+"Karol Bagh, Delhi",Delhi,Apartment,2713,4,1,12,31009590
+"Lajpat Nagar, Delhi",Delhi,Plot,3391,0,0,0,22265306
+"Sector 45, Gurugram",Gurugram,Plot,2371,0,0,0,31109891
+"MG Road, Gurugram",Gurugram,Apartment,2000,2,2,6,26480000
+"Dwarka, Delhi",Delhi,House,2036,5,1,5,16605616
+"Saket, Delhi",Delhi,House,1461,1,2,4,8891646
+"Sector 56, Gurugram",Gurugram,Apartment,3742,1,1,14,39927140
+"Rohini, Delhi",Delhi,Plot,3500,0,0,0,33701500
+"DLF Phase 1, Gurugram",Gurugram,House,2447,5,1,22,18587412
+"Sushant Lok, Gurugram",Gurugram,Apartment,1284,4,2,29,15219252
+"Dwarka, Delhi",Delhi,House,1520,3,2,18,16308080
+"Sector 45, Gurugram",Gurugram,House,3867,3,2,8,41032737
+"Saket, Delhi",Delhi,Plot,3053,0,0,0,25321582
+"Sector 56, Gurugram",Gurugram,Apartment,946,4,3,28,13567532
+"Karol Bagh, Delhi",Delhi,Apartment,4160,1,3,2,46163520
+"Karol Bagh, Delhi",Delhi,House,2748,2,2,18,28128528
+"Rohini, Delhi",Delhi,Plot,2720,0,0,0,24417440
+"Sector 45, Gurugram",Gurugram,Apartment,4815,5,1,20,50018220
+"Rohini, Delhi",Delhi,Plot,3772,0,0,0,39191080
+"Dwarka, Delhi",Delhi,House,4966,5,1,25,51646400
+"Sushant Lok, Gurugram",Gurugram,Apartment,1616,5,1,16,18784384
+"MG Road, Gurugram",Gurugram,House,1050,5,3,14,13778100
+"Saket, Delhi",Delhi,Plot,3263,0,0,0,37521237
+"Sushant Lok, Gurugram",Gurugram,Apartment,4693,4,1,23,51172472
+"Sector 45, Gurugram",Gurugram,Apartment,1304,1,3,11,17959992
+"Sector 45, Gurugram",Gurugram,Apartment,4616,5,3,18,50812928
+"Sector 56, Gurugram",Gurugram,House,4564,1,2,18,43846348
+"Saket, Delhi",Delhi,Plot,993,0,0,0,9738351
+"Rohini, Delhi",Delhi,Apartment,3381,4,3,24,40541571
+"Lajpat Nagar, Delhi",Delhi,Apartment,4206,4,1,16,45340680
+"Sushant Lok, Gurugram",Gurugram,Apartment,3404,4,1,26,36776816
+"Saket, Delhi",Delhi,Plot,3170,0,0,0,37944900
+"Sushant Lok, Gurugram",Gurugram,Apartment,1005,3,3,29,12689130
+"Sector 45, Gurugram",Gurugram,Plot,3690,0,0,0,54043740
+"Lajpat Nagar, Delhi",Delhi,Apartment,3466,3,2,10,23905002
+"DLF Phase 1, Gurugram",Gurugram,Apartment,2079,1,1,27,29710989
+"Sushant Lok, Gurugram",Gurugram,Apartment,2305,5,3,15,28247775
+"Sector 56, Gurugram",Gurugram,House,1049,2,1,15,10336846
+"Rohini, Delhi",Delhi,Apartment,2303,2,1,2,26092990
+"Karol Bagh, Delhi",Delhi,House,843,5,3,6,7724409
+"Dwarka, Delhi",Delhi,House,3742,4,2,28,35597646
+"Lajpat Nagar, Delhi",Delhi,Plot,4271,0,0,0,37473754
+"Rohini, Delhi",Delhi,Apartment,3746,5,2,3,24307794
+"Sushant Lok, Gurugram",Gurugram,Apartment,2293,2,2,28,30749130
+"Sushant Lok, Gurugram",Gurugram,Plot,853,0,0,0,9034123
+"Sector 45, Gurugram",Gurugram,Apartment,1415,3,1,7,13347695
+"Lajpat Nagar, Delhi",Delhi,House,2429,4,2,11,25480210
+"DLF Phase 1, Gurugram",Gurugram,Apartment,3440,2,2,17,27028080
+"DLF Phase 1, Gurugram",Gurugram,Plot,1183,0,0,0,11300016
+"Saket, Delhi",Delhi,Apartment,3525,3,2,28,39649200
+"Karol Bagh, Delhi",Delhi,Apartment,4788,2,2,12,33142536
+"Karol Bagh, Delhi",Delhi,House,3750,2,3,20,26152500
+"Sector 45, Gurugram",Gurugram,House,3235,4,2,4,23162600
+"Sector 45, Gurugram",Gurugram,Plot,1568,0,0,0,21509824
+"Saket, Delhi",Delhi,House,3381,5,1,2,39591510
+"Sector 45, Gurugram",Gurugram,Plot,3675,0,0,0,32475975
+"Sector 45, Gurugram",Gurugram,Apartment,1489,1,2,26,22202479
+"Karol Bagh, Delhi",Delhi,Apartment,4999,5,2,17,41881622
+"Lajpat Nagar, Delhi",Delhi,Apartment,4639,3,3,28,33001846
+"Rohini, Delhi",Delhi,House,3305,3,1,26,38979170
+"Sushant Lok, Gurugram",Gurugram,House,4526,5,1,16,54796282
+"Rohini, Delhi",Delhi,Plot,3306,0,0,0,32299620
+"MG Road, Gurugram",Gurugram,Plot,1749,0,0,0,21727827
+"MG Road, Gurugram",Gurugram,House,3650,2,1,3,30141700
+"Saket, Delhi",Delhi,Apartment,4226,3,1,20,38862296
+"Sushant Lok, Gurugram",Gurugram,Plot,3384,0,0,0,29088864
+"Lajpat Nagar, Delhi",Delhi,Apartment,818,3,2,9,5375896
+"Saket, Delhi",Delhi,Apartment,3058,3,2,1,26259046
+"Rohini, Delhi",Delhi,House,4062,3,1,18,47850360
+"MG Road, Gurugram",Gurugram,House,3017,4,2,24,38720178
+"MG Road, Gurugram",Gurugram,Apartment,4778,5,2,26,66113186
+"DLF Phase 1, Gurugram",Gurugram,House,1898,5,1,22,14367860
+"Dwarka, Delhi",Delhi,Apartment,3704,1,2,9,25620568
+"Dwarka, Delhi",Delhi,House,2478,4,2,21,24346350
+"Dwarka, Delhi",Delhi,Apartment,4988,2,2,15,49880000
+"Sector 56, Gurugram",Gurugram,Apartment,1006,4,2,19,14408938
+"Karol Bagh, Delhi",Delhi,House,4055,2,2,12,36576100
+"Sector 45, Gurugram",Gurugram,Plot,1604,0,0,0,15701556
+"DLF Phase 1, Gurugram",Gurugram,House,4675,2,3,7,61032125
