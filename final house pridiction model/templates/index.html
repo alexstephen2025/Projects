@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>House Price Prediction – Delhi & Gurugram</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+        <div class="container">
+            <a class="navbar-brand" href="/">🏠 House Price Predictor</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="card shadow-lg">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0">Enter Property Details</h4>
+            </div>
+            <div class="card-body">
+                <form action="/predict" method="POST">
+                    <div class="row mb-3">
+                        <div class="col">
+                            <label for="area" class="form-label">Area (sqft)</label>
+                            <input type="number" class="form-control" name="area" required>
+                        </div>
+                        <div class="col">
+                            <label for="age" class="form-label">Age of Property (Years)</label>
+                            <input type="number" class="form-control" name="age" required>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col">
+                            <label for="bedrooms" class="form-label">Bedrooms</label>
+                            <select class="form-select" name="bedrooms" required>
+                                <option selected disabled>Select</option>
+                                <option>1</option><option>2</option><option>3</option><option>4+</option>
+                            </select>
+                        </div>
+                        <div class="col">
+                            <label for="bathrooms" class="form-label">Bathrooms</label>
+                            <select class="form-select" name="bathrooms" required>
+                                <option selected disabled>Select</option>
+                                <option>1</option><option>2</option><option>3</option><option>4+</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="property_type" class="form-label">Property Type</label>
+                        <select class="form-select" name="property_type" required>
+                            <option selected disabled>Select</option>
+                            <option>Apartment</option>
+                            <option>Villa</option>
+                            <option>Independent House</option>
+                            <option>Builder Floor</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="location" class="form-label">Location</label>
+                        <select class="form-select" name="location" required>
+                            <option selected disabled>Select</option>
+                            <option>Sector 56</option>
+                            <option>Golf Course Road</option>
+                            <option>MG Road</option>
+                            <option>Dwarka</option>
+                            <option>Rohini</option>
+                            <option>Lajpat Nagar</option>
+                            <option>Saket</option>
+                            <option>Vasant Kunj</option>
+                            <option>Nehru Place</option>
+                            <option>Rajouri Garden</option>
+                            <option>Karol Bagh</option>
+                            <option>Connaught Place</option>
+                            <option>New Friends Colony</option>
+                            <option>Greater Kailash</option>
+                            <option>South Extension</option>
+                            <option>Janakpuri</option>
+                            <option>Patel Nagar</option>
+                            <option>Preet Vihar</option>
+                            <option>Indirapuram</option>
+                            <option>Cyber City</option>
+                            <option>Udyog Vihar</option>
+                            <option>DLF Phase 1</option>
+                            <option>DLF Phase 2</option>
+                            <option>DLF Phase 3</option>
+                            <option>DLF Phase 4</option>
+                            <option>DLF Phase 5</option>
+                            <option>Palam Vihar</option>
+                            <option>Sector 21</option>
+                            <option>Sector 22</option>
+                            <option>Sector 23</option>
+                            <option>Sector 24</option>
+                            <option>Sector 25</option>
+                            <option>Sector 26</option>
+                            <option>Sector 27</option>
+                            <option>Sector 28</option>
+                            <option>Sector 29</option>
+                            <option>Sector 30</option>
+                            <option>Sector 31</option>
+                            <option>Sector 32</option>
+                            <option>Sector 33</option>
+                            <option>Sector 34</option>
+                            <option>Sector 45</option>
+                            <option>Sector 46</option>
+                            <option>Sector 47</option>
+                            <option>Sector 50</option>
+                            <option>Sector 51</option>
+                            <option>Sector 52</option>
+                            <option>Sector 53</option>
+                            <option>Sector 54</option>
+                            <option>Sector 55</option>
+                            <option>Sector 57</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="city" class="form-label">City</label>
+                        <select class="form-select" name="city" required>
+                            <option selected disabled>Select</option>
+                            <option>Delhi</option>
+                            <option>Gurugram</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn btn-success w-100 mt-3">Predict Price 💰</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center mt-5 mb-3 text-muted">
+        © 2025 House Price Predictor | Developed with ❤️
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
